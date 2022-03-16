@@ -16,4 +16,4 @@ There are only 3 classes: Room, Enemy and Item. In the first one we give an info
 
 The class Enemy describes an info about enemies, which replics will the tell us, their weaknesses, function, which counts enemy's looses. There also are 2 functions, which describe what will happend if we will choose to talk, or to fight
 
-The last one called Item has an information about description of items(weaknesses of the enemy)and their name. 
+The last one called Item has an information about description of items(weaknesses of the enemy)and their names. 
